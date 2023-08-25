@@ -1,7 +1,7 @@
 -- Example NSE script: gather-info.nse
 
 description = "Gather information about open ports on a target server"
-author = "Your Name"
+author = "Raheem Sharif Reed"
 license = "GPLv2+"
 categories = {"default", "discovery"}
 
